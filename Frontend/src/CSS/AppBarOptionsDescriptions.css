@@ -1,0 +1,10 @@
+.AppBarOptionsDescriptionContainer{
+    width:60%;
+    height: 400px;
+    background-color: rgb(112,68,52);
+    display: flex;
+    justify-items: center;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: -26.5em;
+}

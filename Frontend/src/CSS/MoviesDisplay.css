@@ -1,0 +1,29 @@
+.MovieDisplayHeaderContainer{
+    width: 100%;
+    color: rgb(112,68,52);
+    display: flex;
+    align-content: center;
+    margin-top: 10px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+
+.MovieDisplayContainer{
+    width:100%;
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.FullMovieDisplayContainer{
+    width:100%;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    padding:20px
+}
+.h4style{
+    margin-left: 20px;
+    margin-right: 20px;
+}

@@ -1,0 +1,16 @@
+.AppBarBox{
+    width: auto;
+    height: auto;
+    padding: 1px;
+    background-color: rgb(34, 13, 13);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoStyle{
+    width:  240px;
+    height: 120px;
+}
+

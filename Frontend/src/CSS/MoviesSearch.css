@@ -1,0 +1,18 @@
+.movieSeaechContainer{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+h3{
+    margin-left: 15px;
+}
+
+.descriptionContainer{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: -225px;
+    background-color: red;
+    width:54%;
+    height: auto;
+    padding: 20px;
+}

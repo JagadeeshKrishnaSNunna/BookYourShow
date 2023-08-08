@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+table,th,td{
+    border: 5px solid;
+    padding: 12px;
+    border-color: rgb(112,68,52);
+    font-family: sans-serif;
+    font-weight: bold;
+}
